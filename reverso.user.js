@@ -47,7 +47,7 @@
   document.addEventListener("keydown", (e) => {
     ctrlPressed = e.ctrlKey;
 
-    if (ctrlPressed && e.key === "c") {
+    if (ctrlPressed && e.code === "KeyC") {
       const currentTime = Date.now();
 
       cCount = currentTime - lastCPressTime > TIME_THRESHOLD ? 1 : cCount + 1;
