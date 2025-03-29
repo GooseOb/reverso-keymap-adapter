@@ -4,6 +4,7 @@
 // @version      1.0
 // @description  Convert Ctrl+C+C to Ctrl+Alt+R, YouTube Captions integration
 // @author       GooseOb
+// @license      MIT
 // @match        *://*/*
 // @grant        none
 // ==/UserScript==

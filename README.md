@@ -6,10 +6,10 @@ Skip steps which you already have done.
 2. Open extension
 3. Click Settings
 4. In hotkeys, pick Ctrl+Alt+R
-5. Install a userscript manager like Tampermonkey
+5. Install a userscript manager extenstion like Tampermonkey
 6. Install this userscript
-   1. GreasyFork (recommended, for automatic updates)
-   2. GitHub
+   - [GreasyFork](https://greasyfork.org/scripts/531180-reverso-context-ctrl-c-c-adapter) (recommended, for automatic updates)
+   - [GitHub](https://github.com/GooseOb/reverso-keymap-adapter/raw/refs/heads/master/reverso.user.js)
 
 # What you get
 
@@ -25,4 +25,4 @@ Since I switched to Linux, I can't use Reverso Context desktop app. So I created
 
 # Customization
 
-Currently, no customization is available. If you're interested, please open an issue on GitHub or leave a comment on GreasyFork.
+Currently, no customization is available. If you're interested, please [open an issue on GitHub](https://github.com/GooseOb/reverso-keymap-adapter/issues) or [leave a comment on GreasyFork](https://greasyfork.org/en/scripts/531180-reverso-context-ctrl-c-c-adapter/feedback).
