@@ -2,7 +2,7 @@
 
 Skip steps which you already have done.
 
-1. Install Reverso Context extension for your browser
+1. Install Reverso extension for your browser
 2. Open extension
 3. Click Settings
 4. In hotkeys, pick Ctrl+Alt+R
@@ -21,7 +21,7 @@ For hostname `www.youtube.com`, the script searches for captions element (`.html
 
 # Motivation
 
-Since I switched to Linux, I can't use Reverso Context desktop app. So I created a simple script that converts Ctrl+C+C into Ctrl+Alt+R, then the Reverso Context extension handles it.
+Since I switched to Linux, I can't use Reverso desktop app. So I created a simple script that converts Ctrl+C+C into Ctrl+Alt+R, then the Reverso extension handles it.
 
 # Customization
 
